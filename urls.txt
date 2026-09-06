@@ -10322,5 +10322,27 @@
       "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVLAT2025/Moana%202%20(2024)%201080p.mp4"
     ],
     "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 277834,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Moana: Un mar de aventuras",
+    "FECHA": "2016-10-13",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/hw4FlDdufQuLIsYiqBYIL0Bxn26.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/qLVNZFHYUR6Li64He67SWl6BHQe.jpg",
+    "GENERO": "Aventura, Comedia, Familia, Animación",
+    "RATING": 7.565,
+    "DURACION": 107,
+    "FRASE_PROMOCIONAL": "El océano te llama.",
+    "SINOPSIS": "En la antigua Polinesia, cuando una terrible maldición del semidiós Maui llega a la isla de Moana, ella responde al llamado del océano para buscar al semidiós y arreglar las cosas.",
+    "ACTORES": "  • Auliʻi Cravalho (Moana (voice))\n  • Dwayne Johnson (Maui (voice))\n  • Rachel House (Gramma Tala (voice))\n  • Temuera Morrison (Chief Tui (voice))\n  • Jemaine Clement (Tamatoa (voice))",
+    "DIRECTOR": "John Musker",
+    "TRAILER": "https://youtube.com/watch?v=JRw_t5MZJOw",
+    "URLS": [
+      "https://69t.btv.mx/69T/32T/ENG-MOVIE/PEL/Peliculasa2022/P3L1CUL4S/Vaiana%20%282016%29.mp4"
+    ],
+    "METODO": "BUDTV"
   }
 ]
