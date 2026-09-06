@@ -10256,5 +10256,71 @@
       "https://s10.vimeos.net/hls2/02/00003/fjxz3dlhoyqw_,n,h,.urlset/master.m3u8?t=s5q0UpT4bw7gFnbuDoo0RtSYPUP6r6RKzIdxsTFlcNs&s=1788035724&e=43200&v=340453544&i=0.3&sp=0&r=e"
     ],
     "URL_DIRECTA": "https://s10.vimeos.net/hls2/02/00003/fjxz3dlhoyqw_,n,h,.urlset/master.m3u8?t=s5q0UpT4bw7gFnbuDoo0RtSYPUP6r6RKzIdxsTFlcNs&s=1788035724&e=43200&v=340453544&i=0.3&sp=0&r=e"
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 1729723,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Yellow Mirror: La realidad paralela de Homero",
+    "FECHA": "2026-08-26",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/wybH2AK9kazNW7WYKST1YzUKP75.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/rFjlsx5IygrHmBqr0KsVolAHhy7.jpg",
+    "GENERO": "Animación, Comedia, Ciencia ficción",
+    "RATING": 8.122,
+    "DURACION": 27,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Una lámpara defectuosa revela una desgarradora verdad sobre lo que Homero cree que es la realidad, y una tableta impulsada por inteligencia artificial se hace amiga de Maggie y la controla. Los Simpson luchan por encontrar la luz a través de dos oscuras historias sobre lo curioso y lo extraño en este episodio exclusivo de Disney+.",
+    "ACTORES": "  • Dan Castellaneta (Homer Simpson / Barney Gumble (voice))\n  • Nancy Cartwright (Bart Simpson / Ralph Wiggum (voice))\n  • Julie Kavner (Marge Simpson / Jacqueline Bouvier (voice))\n  • Yeardley Smith (Lisa Simpson (voice))\n  • Patti Harrison (Hailey (voice))",
+    "DIRECTOR": "Matthew Faughnan",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/Yellow%20Mirror%20la%20realidad%20paralela%20de%20Homero%20(2026)%20LAT%20(1).mkv"
+    ],
+    "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 1084242,
+    "ID_VIDEO": "vq0t3hf4jlgq",
+    "PLATAFORMA": "Vimeos",
+    "TITULO": "Zootopia 2",
+    "FECHA": "2025-11-26",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/LrMBxFwnsMgXTnaWqHYinn3vDN.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+    "GENERO": "Animación, Aventura, Comedia, Misterio, Familia",
+    "RATING": 7.673,
+    "DURACION": 107,
+    "FRASE_PROMOCIONAL": "Zootopia cambiará para siempre...",
+    "SINOPSIS": "Tras resolver el caso más importante de la historia de Zootopia, los policías novatos Judy Hopps y Nick Wilde se encuentran en la sinuosa pista de un gran misterio cuando Gary De'Snake llega y revoluciona la metrópolis animal.",
+    "ACTORES": "  • Ginnifer Goodwin (Judy Hopps (voice))\n  • Jason Bateman (Nick Wilde (voice))\n  • Ke Huy Quan (Gary De'Snake (voice))\n  • Fortune Feimster (Nibbles Maplestick (voice))\n  • Andy Samberg (Pawbert Lynxley (voice))",
+    "DIRECTOR": "Jared Bush",
+    "TRAILER": "https://youtube.com/watch?v=4_KaABhCPPk",
+    "URLS": [
+      "https://vimeos.net/embed-vq0t3hf4jlgq.html"
+    ],
+    "METODO": "AUTOMATICO"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 1241982,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Moana 2",
+    "FECHA": "2024-11-21",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/mLAGAFUrRw9pphjnbnhtG1hASSN.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/vYqt6kb4lcF8wwqsMMaULkP9OEn.jpg",
+    "GENERO": "Aventura, Animación, Comedia, Familia, Fantasía",
+    "RATING": 6.995,
+    "DURACION": 100,
+    "FRASE_PROMOCIONAL": "El océano los está llamando.",
+    "SINOPSIS": "Después de recibir una llamada inesperada de sus antepasados ​​navegantes, Moana viajará a los lejanos mares de Oceanía, donde vivirá una peligrosa aventura con su nueva tripulación.",
+    "ACTORES": "  • Auliʻi Cravalho (Moana (voice))\n  • Dwayne Johnson (Maui (voice))\n  • Hualālai Chung (Moni (voice))\n  • Rose Matafeo (Loto (voice))\n  • David Fane (Kele (voice))",
+    "DIRECTOR": "David G. Derrick Jr.",
+    "TRAILER": "https://youtube.com/watch?v=vp0sjmy_ad4",
+    "URLS": [
+      "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVLAT2025/Moana%202%20(2024)%201080p.mp4"
+    ],
+    "METODO": "BUDTV"
   }
 ]
