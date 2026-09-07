@@ -10564,5 +10564,93 @@
       "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/24/onward_2020.mkv"
     ],
     "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 508442,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "ok.ru",
+    "TITULO": "Soul",
+    "FECHA": "2020-12-25",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg",
+    "GENERO": "Animación, Familia, Drama, Música, Fantasía",
+    "RATING": 8.089,
+    "DURACION": 100,
+    "FRASE_PROMOCIONAL": "¿Vale la pena morir por toda esta vida?",
+    "SINOPSIS": "Joe Gardner, un maestro de música, le ofrecen una oportunidad para convertirse en un reconocido músico de jazz que tanto soñaba. Sin embargo, después de un pequeño accidente, termina en un lugar misterioso donde las nuevas almas reciben las personalidad, el carácter y los intereses antes de ir a la tierra.",
+    "ACTORES": "  • Jamie Foxx (Joe Gardner (voice))\n  • Tina Fey (22 (voice))\n  • Graham Norton (Moonwind (voice))\n  • Rachel House (Terry (voice))\n  • Alice Braga (Counselor Jerry (voice))",
+    "DIRECTOR": "Pete Docter",
+    "TRAILER": "https://youtube.com/watch?v=qotNwJYXnTI",
+    "URLS": [
+      "https://ok.ru/video/15469616696046"
+    ],
+    "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 585,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "ok.ru",
+    "TITULO": "Monsters, Inc.",
+    "FECHA": "2001-11-01",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/w4EJRJNyKcMQns8dUbBeKayi9DT.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
+    "GENERO": "Animación, Comedia, Familia, Fantasía",
+    "RATING": 7.856,
+    "DURACION": 92,
+    "FRASE_PROMOCIONAL": "Sustos que dan gusto.",
+    "SINOPSIS": "Para alimentar la ciudad, los monstruos tienen que asustar a los niños para que griten. Sin embargo, los niños son tóxicos para los monstruos, y después de que un niño pasa, dos monstruos se dan cuenta de que las cosas pueden no ser lo que ellos piensan.",
+    "ACTORES": "  • John Goodman (Sullivan (voice))\n  • Billy Crystal (Mike (voice))\n  • Mary Gibbs (Boo (voice))\n  • Steve Buscemi (Randall (voice))\n  • James Coburn (Waternoose (voice))",
+    "DIRECTOR": "Pete Docter",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://ok.ru/video/15352614750958"
+    ],
+    "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 62211,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Monsters University",
+    "FECHA": "2013-06-19",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/fDwaVE6Ab1WGnzNEV4Irrtmbdsm.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/mIpCxBWNz6SHCQBe2K2PFr5MB7f.jpg",
+    "GENERO": "Animación, Familia, Comedia, Fantasía",
+    "RATING": 7.057,
+    "DURACION": 96,
+    "FRASE_PROMOCIONAL": "Antes de trabajar, necesitan aprender.",
+    "SINOPSIS": "Una mirada a la relación entre Mike Wazowski y James P. «Sully» Sullivan durante sus días en Monsters University, cuando no eran necesariamente los mejores amigos.",
+    "ACTORES": "  • Billy Crystal (Mike (voice))\n  • John Goodman (Sullivan (voice))\n  • Steve Buscemi (Randy (voice))\n  • Helen Mirren (Dean Hardscrabble (voice))\n  • Peter Sohn (Squishy (voice))",
+    "DIRECTOR": "Dan Scanlon",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/14/monsters_university_2013.mkv"
+    ],
+    "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 9982,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Chicken Little",
+    "FECHA": "2005-11-04",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/AsDUBjrECTVstxCSGvPbwpA0I0M.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/h5Bwxe6dTVFtAFkybkd1EAB4yUW.jpg",
+    "GENERO": "Animación, Familia, Comedia",
+    "RATING": 5.92,
+    "DURACION": 81,
+    "FRASE_PROMOCIONAL": "Cuando se trata de salvar el mundo, ayuda ser un pequeño pollo...",
+    "SINOPSIS": "Cuando el cielo se está cayendo y la cordura ha volado del nido, Chicken Little debe urdir un plan para salvar al planeta de la invasión alienígena y demostrar que el héroe más grande del mundo es un pollito.",
+    "ACTORES": "  • Zach Braff (Chicken Little (voice))\n  • Garry Marshall (Buck Cluck (voice))\n  • Don Knotts (Mayor Turkey Lurkey (voice))\n  • Amy Sedaris (Foxy Loxy (voice))\n  • Steve Zahn (Runt of the Litter (voice))",
+    "DIRECTOR": "Mark Dindal",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/11/chicken_little_2005.mkv"
+    ],
+    "METODO": "BUDTV"
   }
 ]
