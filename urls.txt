@@ -10652,5 +10652,27 @@
       "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/11/chicken_little_2005.mkv"
     ],
     "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 568124,
+    "ID_VIDEO": "uwehsgzk8zea",
+    "PLATAFORMA": "Vimeos",
+    "TITULO": "Encanto",
+    "FECHA": "2021-10-13",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/7L805Kq0m1e7i5sJont9bLiPEQ6.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+    "GENERO": "Animación, Comedia, Familia, Fantasía",
+    "RATING": 7.565,
+    "DURACION": 99,
+    "FRASE_PROMOCIONAL": "En la familia Madrigal todos son mágicos... excepto una.",
+    "SINOPSIS": "Encanto relata la historia de una familia extraordinaria; los Madrigal, quienes viven escondidos en las montañas de Colombia, en una casa mágica, un pueblo vibrante y en un lugar maravilloso llamado Encanto. La magia del Encanto ha bendecido a cada niño de la familia con un don único, desde la superfuerza hasta el poder de sanar; a todos, excepto Mirabel, quien desea ser tan especial como el resto de su familia.  Pero cuando la magia que rodea al Encanto está en peligro, Mirabel decide que ella, la única Madrigal sin ningún tipo de don único, puede ser la única esperanza de su excepcional familia.",
+    "ACTORES": "  • Stephanie Beatriz (Mirabel Madrigal (voice))\n  • María Cecilia Botero (Abuela Alma Madrigal (voice))\n  • John Leguizamo (Bruno Madrigal (voice))\n  • Diane Guerrero (Isabela Madrigal (voice))\n  • Jess Darrow (Luisa Madrigal (voice))",
+    "DIRECTOR": "Byron Howard",
+    "TRAILER": "https://youtube.com/watch?v=4wmnq95hj70",
+    "URLS": [
+      "https://vimeos.net/embed-uwehsgzk8zea.html"
+    ],
+    "METODO": "AUTOMATICO"
   }
 ]
