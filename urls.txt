@@ -10344,5 +10344,225 @@
       "https://69t.btv.mx/69T/32T/ENG-MOVIE/PEL/Peliculasa2022/P3L1CUL4S/Vaiana%20%282016%29.mp4"
     ],
     "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 508943,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Luca",
+    "FECHA": "2021-06-17",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/nvILfxzIboLOq9deUK9m58Y8l8E.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+    "GENERO": "Animación, Familia, Fantasía, Drama, Comedia",
+    "RATING": 7.8,
+    "DURACION": 101,
+    "FRASE_PROMOCIONAL": "Prepárate para un viaje inolvidable.",
+    "SINOPSIS": "Un joven llamado Luca Paguro experimenta un verano inolvidable con su nuevo mejor amigo, Alberto Scorfano, en un hermoso pueblo al lado del mar en la Riviera, Italiana. Sin embargo, se verían amenazados si se revela su gran secreto: ambos son monstruos marinos.",
+    "ACTORES": "  • Jacob Tremblay (Luca Paguro (voice))\n  • Jack Dylan Grazer (Alberto Scorfano (voice))\n  • Emma Berman (Giulia Marcovaldo (voice))\n  • Saverio Raimondo (Ercole Visconti (voice))\n  • Maya Rudolph (Daniela Paguro (voice))",
+    "DIRECTOR": "Enrico Casarosa",
+    "TRAILER": "https://youtube.com/watch?v=KyalDAybVSE",
+    "URLS": [
+      "https://69t.btv.mx/69T/32T/ENG-MOVIE/PEL/Peliculasa2022/P3L1CUL4S/Luca%20%282021%29.mp4"
+    ],
+    "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 976573,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Elementos",
+    "FECHA": "2023-06-14",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/haKaoR9bfFJLoZSYyk2lLApNbcp.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
+    "GENERO": "Animación, Comedia, Familia, Romance",
+    "RATING": 7.596,
+    "DURACION": 93,
+    "FRASE_PROMOCIONAL": "Los opuestos se atraen.",
+    "SINOPSIS": "En una ciudad en la que conviven el fuego, el agua, la tierra y el aire, una joven llena de fuego y un tipo que fluye descubrirán lo mucho que tienen en común.",
+    "ACTORES": "  • Leah Lewis (Ember (voice))\n  • Mamoudou Athie (Wade (voice))\n  • Ronnie del Carmen (Bernie (voice))\n  • Shila Ommi (Cinder (voice))\n  • Wendi McLendon-Covey (Gale (voice))",
+    "DIRECTOR": "Peter Sohn",
+    "TRAILER": "https://youtube.com/watch?v=TGZQqHi7lrc",
+    "URLS": [
+      "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVLAT2023/ElementalLAT2023.mp4"
+    ],
+    "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 1022787,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Elio",
+    "FECHA": "2025-06-18",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/3se2wFVp9HITFMIjPOHmnyaMXjx.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/ukPu5xYOBAnh5H46uK4aQOirW2b.jpg",
+    "GENERO": "Animación, Aventura, Ciencia ficción, Familia, Comedia",
+    "RATING": 6.923,
+    "DURACION": 99,
+    "FRASE_PROMOCIONAL": "El universo llamó... al número equivocado.",
+    "SINOPSIS": "Con una imaginación desbordante y una enorme obsesión por los extraterrestres, Elio, de 11 años, es transportado al espacio. Pero es identificado por error como el embajador galáctico de la tierra.",
+    "ACTORES": "  • Yonas Kibreab (Elio / Other Elio (voice))\n  • Remy Edgerly (Glordon (voice))\n  • Zoe Saldaña (Olga Solís (voice))\n  • Brad Garrett (Lord Grigon (voice))\n  • Brandon Moon (Ambassador Helix (voice))",
+    "DIRECTOR": "Domee Shi",
+    "TRAILER": "https://youtube.com/watch?v=h-yLUnDvvqg",
+    "URLS": [
+      "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVLAT2025/Watch%20Elio1080L4T%20mp4.mp4"
+    ],
+    "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 568124,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Encanto",
+    "FECHA": "2021-10-13",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/7L805Kq0m1e7i5sJont9bLiPEQ6.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+    "GENERO": "Animación, Comedia, Familia, Fantasía",
+    "RATING": 7.565,
+    "DURACION": 99,
+    "FRASE_PROMOCIONAL": "En la familia Madrigal todos son mágicos... excepto una.",
+    "SINOPSIS": "Encanto relata la historia de una familia extraordinaria; los Madrigal, quienes viven escondidos en las montañas de Colombia, en una casa mágica, un pueblo vibrante y en un lugar maravilloso llamado Encanto. La magia del Encanto ha bendecido a cada niño de la familia con un don único, desde la superfuerza hasta el poder de sanar; a todos, excepto Mirabel, quien desea ser tan especial como el resto de su familia.  Pero cuando la magia que rodea al Encanto está en peligro, Mirabel decide que ella, la única Madrigal sin ningún tipo de don único, puede ser la única esperanza de su excepcional familia.",
+    "ACTORES": "  • Stephanie Beatriz (Mirabel Madrigal (voice))\n  • María Cecilia Botero (Abuela Alma Madrigal (voice))\n  • John Leguizamo (Bruno Madrigal (voice))\n  • Diane Guerrero (Isabela Madrigal (voice))\n  • Jess Darrow (Luisa Madrigal (voice))",
+    "DIRECTOR": "Byron Howard",
+    "TRAILER": "https://youtube.com/watch?v=4wmnq95hj70",
+    "URLS": [
+      "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVLAT2025/El%20encanto%20del%20champan%20(720).mp4"
+    ],
+    "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 330457,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Frozen 2",
+    "FECHA": "2019-11-20",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/AoSZyb37ljMAxw0RdeQEBHKtgcc.jpg",
+    "GENERO": "Familia, Animación, Aventura, Comedia, Fantasía",
+    "RATING": 7.226,
+    "DURACION": 103,
+    "FRASE_PROMOCIONAL": "Se fuerte. Enfréntate a tus miedos.",
+    "SINOPSIS": "¿Por qué Elsa nació con poderes mágicos? La respuesta la está llamando y amenazando su reino. Junto con Anna, Kristoff, Olaf y Sven, se embarcará en un peligroso, pero extraordinario viaje. En Frozen: Una Aventura Congelada, Elsa temía que sus poderes fueran demasiado para el mundo. En Frozen 2, ella debe esperar que sean suficientes. Del equipo ganador del Óscar®, los directores Jennifer Lee y Chris Buck, y el productor Peter Del Vecho; con las voces originales en inglés de Idina Menzel, Kristen Bell, Jonathan Groff y Josh Gad; y la música de los compositores Kristen Anderson-Lopez y Robert Lopez, ganadores del premio de la Academia, llega Frozen 2, la nueva película animada de Disney.",
+    "ACTORES": "  • Kristen Bell (Anna (voice))\n  • Idina Menzel (Elsa (voice))\n  • Josh Gad (Olaf (voice))\n  • Evan Rachel Wood (Iduna (voice))\n  • Jonathan Groff (Kristoff / Sven / Reindeers (voice))",
+    "DIRECTOR": "Jennifer Lee",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/26/frozen_ii_2019.mkv"
+    ],
+    "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 150540,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Intensa-Mente",
+    "FECHA": "2015-06-17",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/ewEX6VcVohyrQ52usZb1XovN1Bj.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/o3i6AfTcWAuNvzAUV3q5lOmi6Gx.jpg",
+    "GENERO": "Animación, Familia, Aventura, Drama, Comedia",
+    "RATING": 7.906,
+    "DURACION": 94,
+    "FRASE_PROMOCIONAL": "Conocerás a las pequeñas voces dentro de tu cabeza.",
+    "SINOPSIS": "Riley es una chica que disfruta o padece toda clase de sentimientos. Aunque su vida ha estado marcada por la Alegría, también se ve afectada por otro tipo de emociones. Lo que Riley no entiende muy bien es por qué motivo tiene que existir la Tristeza en su vida. Una serie de acontecimientos hacen que Alegría y Tristeza se mezclen en una peligrosa aventura que dará un vuelco al mundo de Riley.",
+    "ACTORES": "  • Amy Poehler (Joy (voice))\n  • Phyllis Smith (Sadness (voice))\n  • Richard Kind (Bing Bong (voice))\n  • Bill Hader (Fear (voice))\n  • Lewis Black (Anger (voice))",
+    "DIRECTOR": "Pete Docter",
+    "TRAILER": "https://youtube.com/watch?v=_DTnvFdFW14",
+    "URLS": [
+      "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/30/inside_out_2015.mkv"
+    ],
+    "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 1022789,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "IntensaMente 2",
+    "FECHA": "2024-06-11",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/4HEJdpcmTGm3BWWic31G4aCnuC6.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+    "GENERO": "Animación, Aventura, Comedia, Familia",
+    "RATING": 7.539,
+    "DURACION": 96,
+    "FRASE_PROMOCIONAL": "Hagan espacio para nuevas emociones.",
+    "SINOPSIS": "Riley, ahora adolescente, enfrenta una reforma en la Central de sus emociones. Alegría, Tristeza, Ira, Miedo y Asco deben adaptarse a la llegada de nuevas emociones: Ansiedad, Vergüenza, Envidia y Ennui.",
+    "ACTORES": "  • Amy Poehler (Joy (voice))\n  • Maya Hawke (Anxiety (voice))\n  • Kensington Tallman (Riley (voice))\n  • Liza Lapira (Disgust (voice))\n  • Tony Hale (Fear (voice))",
+    "DIRECTOR": "Kelsey Mann",
+    "TRAILER": "https://youtube.com/watch?v=9bol4Yyx9Gs",
+    "URLS": [
+      "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVLAT2024/InsideOut2LAT2024.mp4"
+    ],
+    "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 337404,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Cruella",
+    "FECHA": "2021-05-26",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/tNFBP5OTmKm7CTc5ptUwgmepd8G.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/6MKr3KgOLmzOP6MSuZERO41Lpkt.jpg",
+    "GENERO": "Comedia, Crimen, Drama",
+    "RATING": 7.967,
+    "DURACION": 134,
+    "FRASE_PROMOCIONAL": "Brillante. Malvada. Un poco loca.",
+    "SINOPSIS": "\"Cruella\" se sumerge en la juventud rebelde de uno de los villanos más conocidos -y más de moda-, nada menos que la legendaria Cruella de Vil. Emma Stone encarna a Estella, alias Cruella, junto a Emma Thompson como la Baronesa, la directora de una prestigiosa firma de moda que convierte a Estella en una incipiente diseñadora. La cinta está ambientada en el contexto del punk-rock londinense de los 70.",
+    "ACTORES": "  • Emma Stone (Estella / Cruella)\n  • Emma Thompson (The Baroness)\n  • Joel Fry (Jasper)\n  • Paul Walter Hauser (Horace)\n  • John McCrea (Artie)",
+    "DIRECTOR": "Craig Gillespie",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://69t.btv.mx/69T/32T/ENG-MOVIE/PEL/Peliculasa2022/P3L1CUL4S/Cruella%20%282021%29.mp4"
+    ],
+    "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 447273,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Blanca Nieves",
+    "FECHA": "2025-03-19",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/sm91FNDF6OOKU4hT9BDW6EMoyDB.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/tyfO9jHgkhypUFizRVYD0bytPjP.jpg",
+    "GENERO": "Familia, Fantasía",
+    "RATING": 4.269,
+    "DURACION": 109,
+    "FRASE_PROMOCIONAL": "El cuento clásico cobra vida.",
+    "SINOPSIS": "Una adaptación en vivo del clásico cuento de hadas sobre una hermosa joven princesa que, mientras es acosada por una reina celosa, busca refugio en la casa de siete enanos en la campiña alemana.",
+    "ACTORES": "  • Rachel Zegler (Snow White)\n  • Gal Gadot (Evil Queen)\n  • Andrew Burnap (Jonathan)\n  • Andrew Barth Feldman (Dopey / Narrator (voice))\n  • Jeremy Swift (Doc (voice))",
+    "DIRECTOR": "Marc Webb",
+    "TRAILER": "https://youtube.com/watch?v=qQ6VFj8KKzQ",
+    "URLS": [
+      "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVLAT2025/Blanca%20Nieves%20(2025)%20WEB-DL%20LIGERO%201080p%20Latino%20DescargatePelis.com%20(1).mp4"
+    ],
+    "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 508439,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Unidos",
+    "FECHA": "2020-02-29",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/d72uPaJskwnfctdISOK58Sd8ZrR.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/bcT8CaBIj086WVD7K529h78eujb.jpg",
+    "GENERO": "Aventura, Animación, Comedia, Familia, Fantasía",
+    "RATING": 7.634,
+    "DURACION": 102,
+    "FRASE_PROMOCIONAL": "Su búsqueda comienza.",
+    "SINOPSIS": "Ian y Barley Lightfoot, dos hermanos elfos adolescentes, se embarcan en una búsqueda extraordinaria para describir si todavía queda un poco de magia ahí afuera.",
+    "ACTORES": "  • Tom Holland (Ian Lightfoot (voice))\n  • Chris Pratt (Barley Lightfoot (voice))\n  • Julia Louis-Dreyfus (Laurel Lightfoot (voice))\n  • Octavia Spencer (The Manticore (voice))\n  • Mel Rodriguez (Officer Colt Bronco (voice))",
+    "DIRECTOR": "Dan Scanlon",
+    "TRAILER": "https://youtube.com/watch?v=DORmtcCPW1U",
+    "URLS": [
+      "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/24/onward_2020.mkv"
+    ],
+    "METODO": "BUDTV"
   }
 ]
