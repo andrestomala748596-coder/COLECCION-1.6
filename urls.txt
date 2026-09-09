@@ -10674,5 +10674,27 @@
       "https://vimeos.net/embed-uwehsgzk8zea.html"
     ],
     "METODO": "AUTOMATICO"
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 418956,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "ok.ru",
+    "TITULO": "El Patito Feo",
+    "FECHA": "1939-04-07",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/nCkMoq2penMxvdhQa0LGwK1G6fJ.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/woMB1t6cBbS9xPzZzsv8DI7IOxV.jpg",
+    "GENERO": "Animación, Comedia",
+    "RATING": 7.0,
+    "DURACION": 9,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Un patito es rechazado por su familia porque es diferente. También es despreciado por los otros pájaros y animales. Finalmente, una madre cisne lo adopta como una de sus crías.",
+    "ACTORES": "  • Clarence Nash (Ducks (voice) (uncredited))",
+    "DIRECTOR": "Hamilton Luske",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://ok.ru/video/14050724416238"
+    ],
+    "METODO": "MANUAL"
   }
 ]
