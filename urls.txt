@@ -12390,5 +12390,27 @@
       "https://ok.ru/video/7434536946308"
     ],
     "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 14317,
+    "ID_VIDEO": "8z7kq19w5l4g",
+    "PLATAFORMA": "Vimeos",
+    "TITULO": "Los Thornberrys: la película",
+    "FECHA": "2002-12-20",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/28KmgwVpcmSy51AfeuFcUFbnPE2.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/xAsjesWKuxkMub8w8GRoMjZYRZm.jpg",
+    "GENERO": "Familia, Comedia, Aventura, Animación",
+    "RATING": 6.487,
+    "DURACION": 85,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Eliza y Debbie son dos hermanas que no siempre se llevan bien. Pero su relación se pone a prueba cuando la vida de Debbie corre peligro y Eliza podría tener que renunciar a su poder de hablar con los animales.",
+    "ACTORES": "  • Lacey Chabert (Eliza Thornberry (voice))\n  • Tom Kane (Darwin (voice))\n  • Cree Summer (Phaedra (Elephant) (voice))\n  • Tim Curry (Nigel Thornberry / Col. Radcliff Thornberry (voice))\n  • Lynn Redgrave (Cordelia Thornberry (voice))",
+    "DIRECTOR": "Jeff McGrath",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://vimeos.net/embed-8z7kq19w5l4g.html"
+    ],
+    "METODO": "AUTOMATICO"
   }
 ]
