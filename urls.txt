@@ -12412,5 +12412,27 @@
       "https://vimeos.net/embed-8z7kq19w5l4g.html"
     ],
     "METODO": "AUTOMATICO"
+  },
+  {
+    "CATEGORIA": "DRAGON_BALL_Z",
+    "TMDB_ID": 28609,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Dragon Ball Z: ¡Devuélvanme a mi Gohan!",
+    "FECHA": "1989-07-15",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/86ECobJsXdqcBzAKWS56EbawbOK.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/6SFrBoiuioqljN42pbTmyRKccTp.jpg",
+    "GENERO": "Animación, Acción, Fantasía",
+    "RATING": 6.845,
+    "DURACION": 44,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "¡Gohan ha sido secuestrado! Para empeorar las cosas, el malvado Garlic Jr. está reuniendo las esferas del dragón para desear la inmortalidad. Sólo entonces Garlic Jr. será capaz de tomar el control de la Tierra con el fin de ganarse la venganza por la muerte de su padre. Goku se apresura a salvar a Gohan, pero llega a la fortaleza justo cuando Garlic Jr. convoca al Dragón Eterno. Krillin y Piccolo tratan de ayudar a Goku, pero sus poderes combinados.",
+    "ACTORES": "  • Masako Nozawa (Son Gokû / Son Gohan (voice))\n  • 古川登志夫 (Piccolo (voice))\n  • 鶴ひろみ (Bulma (voice))\n  • 田中真弓 (Kuririn (voice))\n  • 郷里大輔 (Gyû-maô (voice))",
+    "DIRECTOR": "西尾大介",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/24/Dragon_Ball_Z_Devuelveme_a_mi_Gohan_1989.mkv"
+    ],
+    "METODO": "BUDTV"
   }
 ]
