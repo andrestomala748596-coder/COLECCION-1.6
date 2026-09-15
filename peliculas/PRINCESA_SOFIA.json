@@ -18,9 +18,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7446969977476"
     ],
-    "URL_DIRECTA": "https://vd196.okcdn.ru/?expires=1789558505372&srcIp=20.104.156.180&pr=10&srcAg=CHROME&ms=95.163.35.41&type=2&sig=KXJiw-SreP0&ct=0&urls=185.180.203.46&clientType=0&zs=65&id=6714834684548",
+    "URL_DIRECTA": "https://vd451.okcdn.ru/?expires=1789577363238&srcIp=64.236.201.19&pr=10&srcAg=CHROME&ms=185.180.203.55&type=2&sig=yP9o9ZqLmFE&ct=0&urls=176.112.172.99&clientType=0&zs=43&id=6714834684548",
     "URLS_DIRECTAS": [
-      "https://vd196.okcdn.ru/?expires=1789558505372&srcIp=20.104.156.180&pr=10&srcAg=CHROME&ms=95.163.35.41&type=2&sig=KXJiw-SreP0&ct=0&urls=185.180.203.46&clientType=0&zs=65&id=6714834684548"
+      "https://vd451.okcdn.ru/?expires=1789577363238&srcIp=64.236.201.19&pr=10&srcAg=CHROME&ms=185.180.203.55&type=2&sig=yP9o9ZqLmFE&ct=0&urls=176.112.172.99&clientType=0&zs=43&id=6714834684548"
     ]
   },
   {
@@ -42,10 +42,8 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7446920956548"
     ],
-    "URL_DIRECTA": "https://vd196.okcdn.ru/?expires=1789558507160&srcIp=20.104.156.180&pr=10&srcAg=CHROME&ms=95.163.35.41&type=3&sig=fyt-1AFfR94&ct=0&urls=178.237.23.39&clientType=0&zs=65&id=6714762726020",
-    "URLS_DIRECTAS": [
-      "https://vd196.okcdn.ru/?expires=1789558507160&srcIp=20.104.156.180&pr=10&srcAg=CHROME&ms=95.163.35.41&type=3&sig=fyt-1AFfR94&ct=0&urls=178.237.23.39&clientType=0&zs=65&id=6714762726020"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "PRINCESA_SOFIA",
@@ -66,9 +64,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7446912371332"
     ],
-    "URL_DIRECTA": "https://vd1.okcdn.ru/?expires=1789558511147&srcIp=20.104.156.180&pr=10&srcAg=CHROME&ms=176.112.172.39&type=1&sig=vZ8RdqC0zo8&ct=0&urls=178.237.23.39&clientType=0&zs=65&id=6714749880964",
+    "URL_DIRECTA": "https://vd601.okcdn.ru/?expires=1789577381168&srcIp=64.236.201.19&pr=10&srcAg=CHROME&ms=178.237.29.64&type=1&sig=ktAdwqdbFl4&ct=0&urls=176.112.172.80&clientType=0&zs=43&id=6714749880964",
     "URLS_DIRECTAS": [
-      "https://vd1.okcdn.ru/?expires=1789558511147&srcIp=20.104.156.180&pr=10&srcAg=CHROME&ms=176.112.172.39&type=1&sig=vZ8RdqC0zo8&ct=0&urls=178.237.23.39&clientType=0&zs=65&id=6714749880964"
+      "https://vd601.okcdn.ru/?expires=1789577381168&srcIp=64.236.201.19&pr=10&srcAg=CHROME&ms=178.237.29.64&type=1&sig=ktAdwqdbFl4&ct=0&urls=176.112.172.80&clientType=0&zs=43&id=6714749880964"
     ]
   }
 ]
