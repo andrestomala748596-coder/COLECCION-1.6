@@ -18,10 +18,8 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2864508373670"
     ],
-    "URL_DIRECTA": "https://vd447.okcdn.ru/?expires=1790136407410&srcIp=52.188.87.68&pr=10&srcAg=CHROME&ms=176.112.172.92&type=3&sig=T1TqnA-WKuc&ct=0&urls=185.180.203.95&clientType=0&zs=43&id=15495831423732",
-    "URLS_DIRECTAS": [
-      "https://vd447.okcdn.ru/?expires=1790136407410&srcIp=52.188.87.68&pr=10&srcAg=CHROME&ms=176.112.172.92&type=3&sig=T1TqnA-WKuc&ct=0&urls=185.180.203.95&clientType=0&zs=43&id=15495831423732"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "LIBEREN_A_WILLY",
@@ -42,9 +40,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2867616287398"
     ],
-    "URL_DIRECTA": "https://vd568.okcdn.ru/?expires=1790136410899&srcIp=52.188.87.68&pr=10&srcAg=CHROME&ms=178.237.23.80&type=3&sig=30AIy6-Ekwo&ct=0&urls=176.112.172.80&clientType=0&zs=43&id=15495937329908",
+    "URL_DIRECTA": "https://vd568.okcdn.ru/?expires=1790163788557&srcIp=20.83.158.243&pr=10&srcAg=CHROME&ms=178.237.23.80&type=3&sig=OcsPWOGEOFk&ct=0&urls=176.112.172.80&clientType=0&zs=43&id=15495937329908",
     "URLS_DIRECTAS": [
-      "https://vd568.okcdn.ru/?expires=1790136410899&srcIp=52.188.87.68&pr=10&srcAg=CHROME&ms=178.237.23.80&type=3&sig=30AIy6-Ekwo&ct=0&urls=176.112.172.80&clientType=0&zs=43&id=15495937329908"
+      "https://vd568.okcdn.ru/?expires=1790163788557&srcIp=20.83.158.243&pr=10&srcAg=CHROME&ms=178.237.23.80&type=3&sig=OcsPWOGEOFk&ct=0&urls=176.112.172.80&clientType=0&zs=43&id=15495937329908"
     ]
   },
   {
@@ -66,8 +64,10 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2868884998822"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://vd619.okcdn.ru/?expires=1790163806488&srcIp=20.83.158.243&pr=10&srcAg=CHROME&ms=185.180.203.18&type=3&sig=gJCgmh7DN-s&ct=0&urls=176.112.172.10&clientType=0&zs=43&id=1363640453798",
+    "URLS_DIRECTAS": [
+      "https://vd619.okcdn.ru/?expires=1790163806488&srcIp=20.83.158.243&pr=10&srcAg=CHROME&ms=185.180.203.18&type=3&sig=gJCgmh7DN-s&ct=0&urls=176.112.172.10&clientType=0&zs=43&id=1363640453798"
+    ]
   },
   {
     "CATEGORIA": "LIBEREN_A_WILLY",
@@ -88,9 +88,7 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2869470825126"
     ],
-    "URL_DIRECTA": "https://vd453.okcdn.ru/?expires=1790136430568&srcIp=52.188.87.68&pr=10&srcAg=CHROME&ms=185.180.203.106&type=3&sig=CMxkGYAuqG8&ct=0&urls=176.112.172.82&clientType=0&zs=43&id=1364548848294",
-    "URLS_DIRECTAS": [
-      "https://vd453.okcdn.ru/?expires=1790136430568&srcIp=52.188.87.68&pr=10&srcAg=CHROME&ms=185.180.203.106&type=3&sig=CMxkGYAuqG8&ct=0&urls=176.112.172.82&clientType=0&zs=43&id=1364548848294"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   }
 ]
