@@ -21,9 +21,9 @@
     ],
     "METODO": "AUTOMATICO",
     "URLS_DIRECTAS": [
-      "https://s10.vimeos.net/hls2/03/00010/v7hdakih9470_,n,h,.urlset/master.m3u8?t=1s6zPNwglbz01RO6JE8AglluzDfWkqvsTDh6zaKtX3o&s=1790551033&e=43200&v=372298859&i=0.3&sp=0&fr=v7hdakih9470&r=e"
+      "https://s10.vimeos.net/hls2/03/00010/v7hdakih9470_,n,h,.urlset/master.m3u8?t=weF8k9KTG449sEAwSejOGQauEhp73FhqXTu2yPKELZ4&s=1790573982&e=43200&v=372779607&i=0.0&sp=0&fr=v7hdakih9470&r=e"
     ],
-    "URL_DIRECTA": "https://s10.vimeos.net/hls2/03/00010/v7hdakih9470_,n,h,.urlset/master.m3u8?t=1s6zPNwglbz01RO6JE8AglluzDfWkqvsTDh6zaKtX3o&s=1790551033&e=43200&v=372298859&i=0.3&sp=0&fr=v7hdakih9470&r=e"
+    "URL_DIRECTA": "https://s10.vimeos.net/hls2/03/00010/v7hdakih9470_,n,h,.urlset/master.m3u8?t=weF8k9KTG449sEAwSejOGQauEhp73FhqXTu2yPKELZ4&s=1790573982&e=43200&v=372779607&i=0.0&sp=0&fr=v7hdakih9470&r=e"
   },
   {
     "CATEGORIA": "2026",
@@ -143,8 +143,8 @@
     ],
     "METODO": "AUTOMATICO",
     "URLS_DIRECTAS": [
-      "https://s11.vimeos.net/hls2/03/00006/keryjncteims_,n,h,.urlset/master.m3u8?t=zV2Ykht-FhkTUJi4gbYuh7hiMWmGLkuNggvXyEdazTE&s=1790551038&e=43200&v=372299014&i=0.3&sp=0&fr=keryjncteims&r=e"
+      "https://s11.vimeos.net/hls2/03/00006/keryjncteims_,n,h,.urlset/master.m3u8?t=DJNJiJWFQtJqZOjNfiRvUrZT9PYhjt5iex3kHVJX23Q&s=1790573988&e=43200&v=372779651&i=0.0&sp=0&fr=keryjncteims&r=e"
     ],
-    "URL_DIRECTA": "https://s11.vimeos.net/hls2/03/00006/keryjncteims_,n,h,.urlset/master.m3u8?t=zV2Ykht-FhkTUJi4gbYuh7hiMWmGLkuNggvXyEdazTE&s=1790551038&e=43200&v=372299014&i=0.3&sp=0&fr=keryjncteims&r=e"
+    "URL_DIRECTA": "https://s11.vimeos.net/hls2/03/00006/keryjncteims_,n,h,.urlset/master.m3u8?t=DJNJiJWFQtJqZOjNfiRvUrZT9PYhjt5iex3kHVJX23Q&s=1790573988&e=43200&v=372779651&i=0.0&sp=0&fr=keryjncteims&r=e"
   }
 ]
