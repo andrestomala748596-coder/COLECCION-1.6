@@ -20,8 +20,10 @@
       "https://vimeos.net/embed-v7hdakih9470.html"
     ],
     "METODO": "AUTOMATICO",
-    "URLS_DIRECTAS": [],
-    "URL_DIRECTA": ""
+    "URLS_DIRECTAS": [
+      "https://s10.vimeos.net/hls2/03/00010/v7hdakih9470_,n,h,.urlset/master.m3u8?t=VlQG0Sg7cuWDG9rdK-lP3awHtWPddu5O7pjh8xr2JwI&s=1792168539&e=43200&v=397791030&i=0.3&sp=0&fr=v7hdakih9470&r=e"
+    ],
+    "URL_DIRECTA": "https://s10.vimeos.net/hls2/03/00010/v7hdakih9470_,n,h,.urlset/master.m3u8?t=VlQG0Sg7cuWDG9rdK-lP3awHtWPddu5O7pjh8xr2JwI&s=1792168539&e=43200&v=397791030&i=0.3&sp=0&fr=v7hdakih9470&r=e"
   },
   {
     "CATEGORIA": "2026",
@@ -44,8 +46,10 @@
       "https://vimeos.net/embed-ccx4x6hr8abz.html"
     ],
     "METODO": "AUTOMATICO",
-    "URLS_DIRECTAS": [],
-    "URL_DIRECTA": ""
+    "URLS_DIRECTAS": [
+      "https://s12.vimeos.net/hls2/03/00010/ccx4x6hr8abz_,n,h,.urlset/master.m3u8?t=teE8krzhPhuo4pBW5SKyQOGoO3MFcpdT6Ct9kebsZA4&s=1792168539&e=43200&v=397791040&i=0.0&sp=0&fr=ccx4x6hr8abz&r=e"
+    ],
+    "URL_DIRECTA": "https://s12.vimeos.net/hls2/03/00010/ccx4x6hr8abz_,n,h,.urlset/master.m3u8?t=teE8krzhPhuo4pBW5SKyQOGoO3MFcpdT6Ct9kebsZA4&s=1792168539&e=43200&v=397791040&i=0.0&sp=0&fr=ccx4x6hr8abz&r=e"
   },
   {
     "CATEGORIA": "2026",
@@ -117,9 +121,9 @@
     ],
     "METODO": "AUTOMATICO",
     "URLS_DIRECTAS": [
-      "https://s8.vimeos.net/hls2/03/00007/gbjdqxg2thzt_,n,h,.urlset/master.m3u8?t=uDWMduA0a63X2xbKrdJEJXjUAd92EjdwqGLj2WW6GPQ&s=1792149308&e=43200&v=397627967&i=0.3&sp=0&fr=gbjdqxg2thzt&r=e"
+      "https://s8.vimeos.net/hls2/03/00007/gbjdqxg2thzt_,n,h,.urlset/master.m3u8?t=5cqvwHEW6g1-QvI4GbO9SR3VUG5eHY4NPKG8COe375s&s=1792168542&e=43200&v=397791059&i=0.3&sp=0&fr=gbjdqxg2thzt&r=e"
     ],
-    "URL_DIRECTA": "https://s8.vimeos.net/hls2/03/00007/gbjdqxg2thzt_,n,h,.urlset/master.m3u8?t=uDWMduA0a63X2xbKrdJEJXjUAd92EjdwqGLj2WW6GPQ&s=1792149308&e=43200&v=397627967&i=0.3&sp=0&fr=gbjdqxg2thzt&r=e"
+    "URL_DIRECTA": "https://s8.vimeos.net/hls2/03/00007/gbjdqxg2thzt_,n,h,.urlset/master.m3u8?t=5cqvwHEW6g1-QvI4GbO9SR3VUG5eHY4NPKG8COe375s&s=1792168542&e=43200&v=397791059&i=0.3&sp=0&fr=gbjdqxg2thzt&r=e"
   },
   {
     "CATEGORIA": "2026",
