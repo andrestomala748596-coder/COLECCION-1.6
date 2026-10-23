@@ -44,8 +44,10 @@
       "https://vimeos.net/embed-ccx4x6hr8abz.html"
     ],
     "METODO": "AUTOMATICO",
-    "URLS_DIRECTAS": [],
-    "URL_DIRECTA": ""
+    "URLS_DIRECTAS": [
+      "https://s12.vimeos.net/hls2/03/00010/ccx4x6hr8abz_,n,h,.urlset/master.m3u8?t=b4btImt83A4CSINrdeX3WvruFFzyZpEcOKXimsFnb9M&s=1792728605&e=43200&v=407221982&i=0.0&sp=0&fr=ccx4x6hr8abz&r=e"
+    ],
+    "URL_DIRECTA": "https://s12.vimeos.net/hls2/03/00010/ccx4x6hr8abz_,n,h,.urlset/master.m3u8?t=b4btImt83A4CSINrdeX3WvruFFzyZpEcOKXimsFnb9M&s=1792728605&e=43200&v=407221982&i=0.0&sp=0&fr=ccx4x6hr8abz&r=e"
   },
   {
     "CATEGORIA": "2026",
@@ -92,10 +94,8 @@
       "https://vimeos.net/embed-rxibp0g06k4r.html"
     ],
     "METODO": "AUTOMATICO",
-    "URLS_DIRECTAS": [
-      "https://s9.vimeos.net/hls2/03/00012/7wcprvd9l080_,n,h,.urlset/master.m3u8?t=oPXskfqk26RR_dyzTfNeK6LUdajys7Otov_AiisvClw&s=1792704974&e=21600&v=406708113&i=4.236&sp=0&fr=7wcprvd9l080&r=e"
-    ],
-    "URL_DIRECTA": "https://s9.vimeos.net/hls2/03/00012/7wcprvd9l080_,n,h,.urlset/master.m3u8?t=oPXskfqk26RR_dyzTfNeK6LUdajys7Otov_AiisvClw&s=1792704974&e=21600&v=406708113&i=4.236&sp=0&fr=7wcprvd9l080&r=e"
+    "URLS_DIRECTAS": [],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "2026",
@@ -143,8 +143,8 @@
     ],
     "METODO": "AUTOMATICO",
     "URLS_DIRECTAS": [
-      "https://s11.vimeos.net/hls2/03/00006/keryjncteims_,n,h,.urlset/master.m3u8?t=D3pbiiKTDPp77OniKVNlFzgT69vNbTvLdhmkmDPj-Ec&s=1792704976&e=21600&v=406708167&i=4.236&sp=0&fr=keryjncteims&r=e"
+      "https://s11.vimeos.net/hls2/03/00006/keryjncteims_,n,h,.urlset/master.m3u8?t=i-rRO3sUNVXETi0_Q_vDY6t0BZwX57uTpKwJvFll60A&s=1792728608&e=43200&v=407222037&i=0.0&sp=0&fr=keryjncteims&r=e"
     ],
-    "URL_DIRECTA": "https://s11.vimeos.net/hls2/03/00006/keryjncteims_,n,h,.urlset/master.m3u8?t=D3pbiiKTDPp77OniKVNlFzgT69vNbTvLdhmkmDPj-Ec&s=1792704976&e=21600&v=406708167&i=4.236&sp=0&fr=keryjncteims&r=e"
+    "URL_DIRECTA": "https://s11.vimeos.net/hls2/03/00006/keryjncteims_,n,h,.urlset/master.m3u8?t=i-rRO3sUNVXETi0_Q_vDY6t0BZwX57uTpKwJvFll60A&s=1792728608&e=43200&v=407222037&i=0.0&sp=0&fr=keryjncteims&r=e"
   }
 ]
