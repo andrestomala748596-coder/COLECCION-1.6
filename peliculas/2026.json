@@ -20,10 +20,8 @@
       "https://vimeos.net/embed-v7hdakih9470.html"
     ],
     "METODO": "AUTOMATICO",
-    "URLS_DIRECTAS": [
-      "https://s10.vimeos.net/hls2/03/00010/v7hdakih9470_,n,h,.urlset/master.m3u8?t=I1xRRVmYHUCdMzv8nOBnOPIffyGPqh6sAZwbLBM7248&s=1793250889&e=43200&v=413483487&i=0.0&sp=0&fr=v7hdakih9470&r=e"
-    ],
-    "URL_DIRECTA": "https://s10.vimeos.net/hls2/03/00010/v7hdakih9470_,n,h,.urlset/master.m3u8?t=I1xRRVmYHUCdMzv8nOBnOPIffyGPqh6sAZwbLBM7248&s=1793250889&e=43200&v=413483487&i=0.0&sp=0&fr=v7hdakih9470&r=e"
+    "URLS_DIRECTAS": [],
+    "URL_DIRECTA": ""
   },
   {
     "CATEGORIA": "2026",
@@ -47,9 +45,9 @@
     ],
     "METODO": "AUTOMATICO",
     "URLS_DIRECTAS": [
-      "https://s12.vimeos.net/hls2/03/00010/ccx4x6hr8abz_,n,h,.urlset/master.m3u8?t=OBeeTimMb_U2OI0Sk46rZE-K65TnaKtVdqln0mpx1L4&s=1793250890&e=43200&v=413483497&i=0.0&sp=0&fr=ccx4x6hr8abz&r=e"
+      "https://s12.vimeos.net/hls2/03/00010/ccx4x6hr8abz_,n,h,.urlset/master.m3u8?t=XDgH_P9NM2uUXxojOSgQJeKfMk2V-2p2d8M4tWxkwr4&s=1793278104&e=43200&v=413672841&i=0.0&sp=0&fr=ccx4x6hr8abz&r=e"
     ],
-    "URL_DIRECTA": "https://s12.vimeos.net/hls2/03/00010/ccx4x6hr8abz_,n,h,.urlset/master.m3u8?t=OBeeTimMb_U2OI0Sk46rZE-K65TnaKtVdqln0mpx1L4&s=1793250890&e=43200&v=413483497&i=0.0&sp=0&fr=ccx4x6hr8abz&r=e"
+    "URL_DIRECTA": "https://s12.vimeos.net/hls2/03/00010/ccx4x6hr8abz_,n,h,.urlset/master.m3u8?t=XDgH_P9NM2uUXxojOSgQJeKfMk2V-2p2d8M4tWxkwr4&s=1793278104&e=43200&v=413672841&i=0.0&sp=0&fr=ccx4x6hr8abz&r=e"
   },
   {
     "CATEGORIA": "2026",
@@ -144,9 +142,7 @@
       "https://vimeos.net/embed-keryjncteims.html"
     ],
     "METODO": "AUTOMATICO",
-    "URLS_DIRECTAS": [
-      "https://s11.vimeos.net/hls2/03/00006/keryjncteims_,n,h,.urlset/master.m3u8?t=DwmDMxbEbda3-TlarqnZeyPwg_Co8cnBrfafC3eK1LQ&s=1793250894&e=43200&v=413483544&i=0.0&sp=0&fr=keryjncteims&r=e"
-    ],
-    "URL_DIRECTA": "https://s11.vimeos.net/hls2/03/00006/keryjncteims_,n,h,.urlset/master.m3u8?t=DwmDMxbEbda3-TlarqnZeyPwg_Co8cnBrfafC3eK1LQ&s=1793250894&e=43200&v=413483544&i=0.0&sp=0&fr=keryjncteims&r=e"
+    "URLS_DIRECTAS": [],
+    "URL_DIRECTA": ""
   }
 ]
