@@ -90,9 +90,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/4198934055529"
     ],
-    "URL_DIRECTA": "https://vd685.okcdn.ru/?expires=1795502202352&srcIp=20.55.223.180&pr=10&srcAg=CHROME&rjz=43&ms=176.112.172.1&type=5&sig=7XFyhcsYVLs&ct=0&urls=178.237.23.2&clientType=0&zs=43&id=3276784994921&rjr=8",
+    "URL_DIRECTA": "https://vd685.okcdn.ru/?expires=1795563920845&srcIp=172.214.37.2&pr=10&srcAg=CHROME&rjz=43&ms=176.112.172.1&type=5&sig=cDzd6lyw6_A&ct=0&urls=178.237.23.2&clientType=0&zs=43&id=3276784994921&rjr=8",
     "URLS_DIRECTAS": [
-      "https://vd685.okcdn.ru/?expires=1795502202352&srcIp=20.55.223.180&pr=10&srcAg=CHROME&rjz=43&ms=176.112.172.1&type=5&sig=7XFyhcsYVLs&ct=0&urls=178.237.23.2&clientType=0&zs=43&id=3276784994921&rjr=8"
+      "https://vd685.okcdn.ru/?expires=1795563920845&srcIp=172.214.37.2&pr=10&srcAg=CHROME&rjz=43&ms=176.112.172.1&type=5&sig=cDzd6lyw6_A&ct=0&urls=178.237.23.2&clientType=0&zs=43&id=3276784994921&rjr=8"
     ]
   },
   {
@@ -114,10 +114,8 @@
     "URLS_OKRU": [
       "https://ok.ru/video/4190108322409"
     ],
-    "URL_DIRECTA": "https://vd338.okcdn.ru/?expires=1795502209130&srcIp=20.55.223.180&pr=10&srcAg=CHROME&rjz=43&ms=176.112.172.77&type=5&sig=Za_GVh1PR0o&ct=0&urls=95.163.35.37&clientType=0&zs=43&id=3266623965801&rjr=8",
-    "URLS_DIRECTAS": [
-      "https://vd338.okcdn.ru/?expires=1795502209130&srcIp=20.55.223.180&pr=10&srcAg=CHROME&rjz=43&ms=176.112.172.77&type=5&sig=Za_GVh1PR0o&ct=0&urls=95.163.35.37&clientType=0&zs=43&id=3266623965801&rjr=8"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "SHREK",
@@ -140,9 +138,7 @@
       "https://ok.ru/video/15436367268590"
     ],
     "METODO": "MANUAL",
-    "URLS_DIRECTAS": [
-      "https://ok6-3.vkuser.net/?expires=1795502496487&srcIp=20.55.223.180&pr=10&srcAg=CHROME&ms=95.142.206.130&type=7&sig=BC8bybE43LE&ct=0&urls=185.180.203.68%3B178.237.23.83&clientType=0&zs=43&id=17351287048942&scl=5"
-    ],
-    "URL_DIRECTA": "https://ok6-3.vkuser.net/?expires=1795502496487&srcIp=20.55.223.180&pr=10&srcAg=CHROME&ms=95.142.206.130&type=7&sig=BC8bybE43LE&ct=0&urls=185.180.203.68%3B178.237.23.83&clientType=0&zs=43&id=17351287048942&scl=5"
+    "URLS_DIRECTAS": [],
+    "URL_DIRECTA": ""
   }
 ]
