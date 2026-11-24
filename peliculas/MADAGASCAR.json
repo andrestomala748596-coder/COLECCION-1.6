@@ -23,9 +23,9 @@
     ],
     "ID_VIDEO": null,
     "PLATAFORMA": "tokyvideo.com",
-    "URL_DIRECTA": "https://cdnst95.tokyvideo.com/videos/824/824688/mp4/af7d04f587ef77190cf86e50ce585a430fff4cc5e3b64ebd68bcd98bbe103f4d.mp4?secure=_28WVVy8twWqFmSKxuLjrA%3D%3D%2C1795596913",
+    "URL_DIRECTA": "https://cdnst95.tokyvideo.com/videos/824/824688/mp4/af7d04f587ef77190cf86e50ce585a430fff4cc5e3b64ebd68bcd98bbe103f4d.mp4?secure=FkCZwXWTXid6NPmjs6_9UQ%3D%3D%2C1795644098",
     "URLS_DIRECTAS": [
-      "https://cdnst95.tokyvideo.com/videos/824/824688/mp4/af7d04f587ef77190cf86e50ce585a430fff4cc5e3b64ebd68bcd98bbe103f4d.mp4?secure=_28WVVy8twWqFmSKxuLjrA%3D%3D%2C1795596913"
+      "https://cdnst95.tokyvideo.com/videos/824/824688/mp4/af7d04f587ef77190cf86e50ce585a430fff4cc5e3b64ebd68bcd98bbe103f4d.mp4?secure=FkCZwXWTXid6NPmjs6_9UQ%3D%3D%2C1795644098"
     ]
   },
   {
@@ -47,8 +47,10 @@
     "URLS_OKRU": [
       "https://ok.ru/video/16210274290372"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://vd686.okcdn.ru/?expires=1795645139366&srcIp=52.156.141.13&pr=10&srcAg=CHROME&rjz=43&ms=176.112.172.2&type=0&sig=2wfs-vLtif0&ct=0&urls=185.226.55.63&clientType=0&zs=43&id=19064128932548&rjr=8",
+    "URLS_DIRECTAS": [
+      "https://vd686.okcdn.ru/?expires=1795645139366&srcIp=52.156.141.13&pr=10&srcAg=CHROME&rjz=43&ms=176.112.172.2&type=0&sig=2wfs-vLtif0&ct=0&urls=185.226.55.63&clientType=0&zs=43&id=19064128932548&rjr=8"
+    ]
   },
   {
     "CATEGORIA": "MADAGASCAR",
@@ -70,9 +72,9 @@
     "URLS": [
       "https://www.tokyvideo.com/es/video/gigimadagascar-2-escape-a-africa-2008-latino-3"
     ],
-    "URL_DIRECTA": "https://cdnst95.tokyvideo.com/videos/824/824691/mp4/a141db0ce82288ce963e424f133ab77e75f073e4aef2c70c8ba19e220fadb1f9.mp4?secure=TAGRYH1P4R1IO6yn-4yGJA%3D%3D%2C1795597773",
+    "URL_DIRECTA": "https://cdnst95.tokyvideo.com/videos/824/824691/mp4/a141db0ce82288ce963e424f133ab77e75f073e4aef2c70c8ba19e220fadb1f9.mp4?secure=fds2PI3yUrCqwfClxgumOg%3D%3D%2C1795645147",
     "URLS_DIRECTAS": [
-      "https://cdnst95.tokyvideo.com/videos/824/824691/mp4/a141db0ce82288ce963e424f133ab77e75f073e4aef2c70c8ba19e220fadb1f9.mp4?secure=TAGRYH1P4R1IO6yn-4yGJA%3D%3D%2C1795597773"
+      "https://cdnst95.tokyvideo.com/videos/824/824691/mp4/a141db0ce82288ce963e424f133ab77e75f073e4aef2c70c8ba19e220fadb1f9.mp4?secure=fds2PI3yUrCqwfClxgumOg%3D%3D%2C1795645147"
     ]
   },
   {
@@ -95,9 +97,9 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigilos-pinguinos-de-madagascar-2014-ul1QJscppfg3052n"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.2918719.2521096.1.0.1.1?md5=4tuzCuwtq4bVQRCs4XDg9w&expires=1795540184",
+    "URL_DIRECTA": "https://videa.hu/static/w720p/8.2918719.2521096.1.0.1.1?md5=UDScc884v7wAOGY9WoN0nA&expires=1795587561",
     "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.2918719.2521096.1.0.1.1?md5=4tuzCuwtq4bVQRCs4XDg9w&expires=1795540184"
+      "https://videa.hu/static/w720p/8.2918719.2521096.1.0.1.1?md5=UDScc884v7wAOGY9WoN0nA&expires=1795587561"
     ]
   }
 ]
