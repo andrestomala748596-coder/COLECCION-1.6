@@ -92,8 +92,10 @@
       "https://vimeos.net/embed-rxibp0g06k4r.html"
     ],
     "METODO": "AUTOMATICO",
-    "URLS_DIRECTAS": [],
-    "URL_DIRECTA": ""
+    "URLS_DIRECTAS": [
+      "https://s12.vimeos.net/hls2/02/00012/7wcprvd9l080_,n,h,.urlset/master.m3u8?t=y5AODNdqSYegnXfQtGVgqH2OOkgIJ8bNOidyJ1dg600&s=1795593266&e=43200&v=454919313&i=0.0&sp=0&fr=7wcprvd9l080&r=e"
+    ],
+    "URL_DIRECTA": "https://s12.vimeos.net/hls2/02/00012/7wcprvd9l080_,n,h,.urlset/master.m3u8?t=y5AODNdqSYegnXfQtGVgqH2OOkgIJ8bNOidyJ1dg600&s=1795593266&e=43200&v=454919313&i=0.0&sp=0&fr=7wcprvd9l080&r=e"
   },
   {
     "CATEGORIA": "2026",
@@ -117,9 +119,9 @@
     ],
     "METODO": "AUTOMATICO",
     "URLS_DIRECTAS": [
-      "https://s8.vimeos.net/hls2/03/00007/gbjdqxg2thzt_,n,h,.urlset/master.m3u8?t=DilkJVQQ3bOxBqHljuicQL8tUJNyxC_05gMRZJ3YnEM&s=1795559075&e=43200&v=453561664&i=0.0&sp=0&fr=gbjdqxg2thzt&r=e"
+      "https://s8.vimeos.net/hls2/03/00007/gbjdqxg2thzt_,n,h,.urlset/master.m3u8?t=Ia8qIgkTZ2dNmnvTjuuGqT8wpv57E3KCQ0iCcovpOn4&s=1795593267&e=43200&v=454919329&i=0.0&sp=0&fr=gbjdqxg2thzt&r=e"
     ],
-    "URL_DIRECTA": "https://s8.vimeos.net/hls2/03/00007/gbjdqxg2thzt_,n,h,.urlset/master.m3u8?t=DilkJVQQ3bOxBqHljuicQL8tUJNyxC_05gMRZJ3YnEM&s=1795559075&e=43200&v=453561664&i=0.0&sp=0&fr=gbjdqxg2thzt&r=e"
+    "URL_DIRECTA": "https://s8.vimeos.net/hls2/03/00007/gbjdqxg2thzt_,n,h,.urlset/master.m3u8?t=Ia8qIgkTZ2dNmnvTjuuGqT8wpv57E3KCQ0iCcovpOn4&s=1795593267&e=43200&v=454919329&i=0.0&sp=0&fr=gbjdqxg2thzt&r=e"
   },
   {
     "CATEGORIA": "2026",
@@ -143,8 +145,8 @@
     ],
     "METODO": "AUTOMATICO",
     "URLS_DIRECTAS": [
-      "https://s11.vimeos.net/hls2/03/00006/keryjncteims_,n,h,.urlset/master.m3u8?t=GH_5AB-7V1WIyZDvzkMl5lShINbwgL4XLxsTaLSmjRA&s=1795559076&e=43200&v=453561710&i=0.0&sp=0&fr=keryjncteims&r=e"
+      "https://s11.vimeos.net/hls2/03/00006/keryjncteims_,n,h,.urlset/master.m3u8?t=0FbpalZIdigLQFfjygf58MXyDCom_Ak44GMJY85K2XI&s=1795593268&e=43200&v=454919352&i=0.0&sp=0&fr=keryjncteims&r=e"
     ],
-    "URL_DIRECTA": "https://s11.vimeos.net/hls2/03/00006/keryjncteims_,n,h,.urlset/master.m3u8?t=GH_5AB-7V1WIyZDvzkMl5lShINbwgL4XLxsTaLSmjRA&s=1795559076&e=43200&v=453561710&i=0.0&sp=0&fr=keryjncteims&r=e"
+    "URL_DIRECTA": "https://s11.vimeos.net/hls2/03/00006/keryjncteims_,n,h,.urlset/master.m3u8?t=0FbpalZIdigLQFfjygf58MXyDCom_Ak44GMJY85K2XI&s=1795593268&e=43200&v=454919352&i=0.0&sp=0&fr=keryjncteims&r=e"
   }
 ]
