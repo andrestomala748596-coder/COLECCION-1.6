@@ -40,10 +40,8 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9874556914414"
     ],
-    "URL_DIRECTA": "https://vd238.okcdn.ru/?expires=1795899693566&srcIp=3.41.210.138&pr=10&srcAg=CHROME&rjz=43&ms=95.163.35.68&type=3&sig=8C_LaIu6N-s&ct=0&urls=185.226.55.53&clientType=0&zs=43&id=8594911333102&rjr=8",
-    "URLS_DIRECTAS": [
-      "https://vd238.okcdn.ru/?expires=1795899693566&srcIp=3.41.210.138&pr=10&srcAg=CHROME&rjz=43&ms=95.163.35.68&type=3&sig=8C_LaIu6N-s&ct=0&urls=185.226.55.53&clientType=0&zs=43&id=8594911333102&rjr=8"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "PIE_PEQUE_O",
@@ -64,8 +62,10 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9882284460782"
     ],
-    "URL_DIRECTA": "",
-    "URLS_DIRECTAS": []
+    "URL_DIRECTA": "https://vd487.okcdn.ru/?expires=1795935955222&srcIp=52.250.69.180&pr=10&srcAg=CHROME&rjz=43&ms=95.163.35.113&type=3&sig=mv2N8UMYjDU&ct=0&urls=185.226.55.56&clientType=0&zs=43&id=8607317428974&rjr=8",
+    "URLS_DIRECTAS": [
+      "https://vd487.okcdn.ru/?expires=1795935955222&srcIp=52.250.69.180&pr=10&srcAg=CHROME&rjz=43&ms=95.163.35.113&type=3&sig=mv2N8UMYjDU&ct=0&urls=185.226.55.56&clientType=0&zs=43&id=8607317428974&rjr=8"
+    ]
   },
   {
     "CATEGORIA": "PIE_PEQUE_O",
@@ -86,9 +86,9 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9882380929774"
     ],
-    "URL_DIRECTA": "https://vd535.okcdn.ru/?expires=1795899696831&srcIp=3.41.210.138&pr=10&srcAg=CHROME&rjz=43&ms=185.226.55.45&type=3&sig=V0I3S7VoXFo&ct=0&urls=176.112.172.126&clientType=0&zs=43&id=8607472618222&rjr=8&scl=5",
+    "URL_DIRECTA": "https://vd535.okcdn.ru/?expires=1795935957885&srcIp=52.250.69.180&pr=10&srcAg=CHROME&rjz=43&ms=185.226.55.45&type=3&sig=0kpTjmioR94&ct=0&urls=185.180.203.61&clientType=0&zs=43&id=8607472618222&rjr=8&scl=5",
     "URLS_DIRECTAS": [
-      "https://vd535.okcdn.ru/?expires=1795899696831&srcIp=3.41.210.138&pr=10&srcAg=CHROME&rjz=43&ms=185.226.55.45&type=3&sig=V0I3S7VoXFo&ct=0&urls=176.112.172.126&clientType=0&zs=43&id=8607472618222&rjr=8&scl=5"
+      "https://vd535.okcdn.ru/?expires=1795935957885&srcIp=52.250.69.180&pr=10&srcAg=CHROME&rjz=43&ms=185.226.55.45&type=3&sig=0kpTjmioR94&ct=0&urls=185.180.203.61&clientType=0&zs=43&id=8607472618222&rjr=8&scl=5"
     ]
   }
 ]
